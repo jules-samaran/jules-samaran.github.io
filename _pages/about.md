@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final year PhD student in machine learning and computational biology under the joint 
+I'm a final year PhD student (defense expected in November) in machine learning and computational biology under the joint 
 supervision of [Laura Cantini](https://research.pasteur.fr/en/member/laura-cantini/) at 
 [Institut Pasteur](https://www.pasteur.fr) and [Gabriel Peyré](http://www.gpeyre.com/) 
 at [ENS PSL](https://www.ens.psl.eu/). 
