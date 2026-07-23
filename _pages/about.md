@@ -7,25 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final year PhD student (defense expected in November) in machine learning and computational biology under the joint 
-supervision of [Laura Cantini](https://research.pasteur.fr/en/member/laura-cantini/) at 
-[Institut Pasteur](https://www.pasteur.fr) and [Gabriel Peyré](http://www.gpeyre.com/) 
-at [ENS PSL](https://www.ens.psl.eu/). 
+I'm a Postdoctoral Associate at NYU's Courant Institute of Mathematical Sciences in the [Biological ML Group (PI: Prof. Romain Lopez)](https://biologicalml.org/).
 
-My research focuses on the development of novel machine learning methods for the analysis 
+I defended in 2025 my PhD in machine learning and computational biology under the joint 
+supervision of [Laura Cantini](https://research.pasteur.fr/en/member/laura-cantini/) at [Institut Pasteur](https://www.pasteur.fr) and [Gabriel Peyré](http://www.gpeyre.com/) 
+at [ENS PSL](https://www.ens.psl.eu/). My doctoral research focused on the development of novel machine learning methods for the analysis 
 of high-dimensional genomics data, with a particular emphasis on using Optimal Transport 
 to integrate multiple single-cell modalities. 
 
 In a broader picture, I am interested in the intersection of machine learning, 
-mathematics and life sciences. I believe that leveraging strong mathematical principles 
-and incorporating prior expert knowledge is crucial for developing robust
-methods to tackle complex problems.
+mathematics and life sciences. 
 
 ## Education
 
 🎓 **PhD in Computational Biology**  
-[Institut Pasteur](https://www.pasteur.fr), Paris, France  
-*2021 - now*
+[Institut Pasteur](https://www.pasteur.fr) & [ENS](https://www.ens.psl.eu/), Paris, France  
+*2021 - 2025*
 
 🎓 **MSc. in Mathematics, Vision and Machine Learning**  
 [MVA](https://www.master-mva.com/), Paris, France  

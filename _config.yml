@@ -25,11 +25,11 @@ author:
   avatar           : "photo.jpg"
   name             : "Jules Samaran"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student, Machine Learning and Computational Biology"
-  location         : "Paris, France"
-  employer         : "Institut Pasteur & ENS Ulm"
+  bio              : "Postdoctoral Associate, Machine Learning and Computational Biology"
+  location         : "New York"
+  employer         : "NYU Courant Institute"
   uri              : # URL
-  email            : "jules.samaran@pasteur.fr"
+  email            : "jds9764@nyu.edu"
 
   # Academic websites
   academia         : # URL
